@@ -13,3 +13,7 @@ Thirdly, to predict momentum flow and swing occurrence, we developed an improved
 Finally, we tested the improved LSTM model’s universality and robustness on four given matches and various other tennis tournaments. It showed good predictive performance for Wimbledon Men’s matches and moderate predictive ability elsewhere. However, performance varied due to differences in match formats, players’ adaptability to court surfaces, and different sports’ properties. We recommend enhancing the model by adjusting the factors and boosting its learning efficiency for better predictions.
 
 Keywords: tennis, AHP, LSTM, momentum, swing.
+
+
+
+LSTM model code partially borrowed from https://blog.csdn.net/a2476100824/article/details/128826750. 
